@@ -747,7 +747,7 @@ public class Data
         ["SYMPATHY"] = P("SIM PƏ THII"),
         ["SYMPHONY"] = P("SIM FƏ NII"),
         ["SYNDROME"] = P("SINJ ROUM"),
-        ["SYSTEMIC"] = P("SIS TI MA TIK"),
+        ["SYSTEMIC"] = P("SIS TE MIK"),
         ["TACKLING"] = P("TAK LING"),
         ["TACTICAL"] = P("TAK TI KƏL"),
         ["TAKEOVER"] = P("TEIK OU VƏR"),
